@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "C:/Users/Julian Pulido/Desktop/work03-simulacion-OV7670-master/hw/src/test_cam.v";
+static const char *ng0 = "C:/Users/Julian Pulido/Documents/GitHub/WPP3-respaldo/hw/src/test_cam.v";
 static unsigned int ng1[] = {0U, 0U};
 static int ng2[] = {0, 0};
 static int ng3[] = {1, 0};
@@ -576,7 +576,7 @@ LAB31:    xsi_set_current_line(162, ng0);
     t3 = *((char **)t2);
     t2 = (t0 + 5680U);
     t4 = *((char **)t2);
-    t2 = (t0 + 608);
+    t2 = (t0 + 472);
     t5 = *((char **)t2);
     memset(t7, 0, 8);
     xsi_vlog_unsigned_multiply(t7, 32, t4, 9, t5, 32);
